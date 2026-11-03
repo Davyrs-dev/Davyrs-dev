@@ -45,11 +45,13 @@ Cada projeto terá sua própria documentação, apresentando objetivos, tecnolog
 - Aprender novas ferramentas e tecnologias.
 - Conquistar oportunidades profissionais na área de tecnologia.
 
-🌐 Contato
+ ## 🌐 Contato
 
-- GitHub: "Davyrs-dev" (https://github.com/Davyrs-dev)
-- Portfólio: Davy.dev — em atualização.
-- LinkedIn:"David Raneylson da Silva" (https://www.linkedin.com/in/david-r-silva-dev).
+- 💻 **GitHub:** [Davyrs-dev](https://github.com/Davyrs-dev)
+- 💼 **LinkedIn:** [David Raneylson da Silva](https://www.linkedin.com/in/david-r-silva-dev)
+- 🌐 **Portfólio:** Davy.dev — em atualização.
+
+---
 
 ---
 
